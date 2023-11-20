@@ -95,7 +95,6 @@ pyreadline3==3.4.1
 python-dateutil
 python-dotenv==1.0.0
 pytz==2023.3.post1
-pywin32
 PyYAML==6.0.1
 pyzmq
 referencing==0.30.2
