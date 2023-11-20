@@ -82,7 +82,6 @@ psutil
 pulsar-client==3.3.0
 pure-eval
 pyarrow==13.0.0
-pydantic==2.4.2
 pydantic_core==2.10.1
 pydeck==0.8.1b0
 Pygments
