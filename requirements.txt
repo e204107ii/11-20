@@ -26,7 +26,6 @@ decorator
 entrypoints==0.4
 exceptiongroup
 executing
-fastapi==0.103.2
 filelock==3.12.4
 flatbuffers==23.5.26
 frozenlist==1.4.0
