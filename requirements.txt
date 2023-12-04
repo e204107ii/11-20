@@ -52,7 +52,7 @@ jsonschema==4.19.1
 jsonschema-specifications==2023.7.1
 jupyter_client
 jupyter_core
-langchain==0.0.314
+langchain==0.0.345
 langsmith==0.0.43
 markdown-it-py==3.0.0
 MarkupSafe==2.1.3
